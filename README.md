@@ -76,6 +76,8 @@ Our success measures will include reaching an acceptable choice, understanding t
 
 ## Explore the project
 
+- [Developer friction log](HACKATHON_FRICTION_LOG.md) — concrete emulator, inspection and capture observations with workarounds, evidence and suggested improvements.
+
 - [Architecture visuals](Architecture%20Diagrams/README.md) — household decision flow and implemented technical architecture, with upload-ready PNGs and editable SVGs.
 
 - [Development status](PROJECT_STATUS.md) — verified achievements, incomplete features, and next delivery milestones.
