@@ -9,6 +9,22 @@ We built a Fire OS-targeted application using the event-accepted Android TV Emul
 
 Severity describes impact on our workflow: **High** blocked the attempted step until a workaround was found; **Medium** disrupted testing or recording while the core app could still run. We have not invented time-loss totals or attributed uncertain root causes to the platform.
 
+## At a glance
+
+| Observation | Impact on our work | Workaround and result |
+| --- | --- | --- |
+| Emulator transport appeared before framework readiness | High during setup | Check boot and package service; later installation/native checks passed |
+| Older WebView lacked an API expected by inspection tools | Medium | QA-only visibility shim; real D-pad checks retained separately |
+| Action wall time differed from recorded media time | Medium | Inspect source frames/PTS, correct ranges and verify final export |
+
+## Jump to an entry
+
+- [Emulator readiness](#1-a-connected-adb-transport-did-not-always-mean-the-emulator-was-ready)
+- [WebView inspection compatibility](#2-current-inspection-tooling-expected-an-api-missing-from-the-older-webview)
+- [Recording timestamps](#3-emulator-action-times-were-not-a-safe-substitute-for-recording-timestamps)
+- [Feature requests](#related-feature-requests)
+- [Evidence boundaries](#scope-and-evidence-boundaries)
+
 ## 1. A connected ADB transport did not always mean the emulator was ready
 
 **Tool/component:** Android TV Emulator, ADB and Android framework startup on our Windows host.
