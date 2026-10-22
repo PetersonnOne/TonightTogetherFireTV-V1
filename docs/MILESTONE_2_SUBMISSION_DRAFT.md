@@ -32,7 +32,7 @@ Illustrative entries, synthetic learning histories and controlled provider state
 
 ## Delivery fields to fill
 
-- Public source URL: pending publication and access check.
+- Source URL: https://github.com/PetersonnOne/TonightTogetherFireTV-V1 — pushed to main; anonymous access returns404, so private-repository reviewer access must be arranged.
 - Public video URL: pending hosting and access check.
 - APK download URLs: pending hosting; local evaluation artifacts are listed in verification.
 - Submission form/category/eligibility: recheck current official requirements before publishing.
