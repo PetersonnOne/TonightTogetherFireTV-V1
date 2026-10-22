@@ -1,0 +1,19 @@
+Everyone finally sits down. One person wants comedy. Another wants adventure. Someone has a firm no. You made time for each other. Now the evening is disappearing into the choice.
+
+Meet Tonight Together, a household viewing companion designed for Amazon Fire TV. Give everyone a say, understand the compromise, and find common ground. This is our working Android TV Emulator demonstration.
+
+Select tonight’s viewers, time and preferences. Open an invitation, approve the participants, and let each person respond from their own browser. The television keeps the shared decision visible, while everyone has a way to contribute.
+
+Recommendations show individual fit and the tradeoffs. Firm exclusions come first. When time blocks progress, the app can suggest a specific adjustment. People confirm the change, and everyone must accept the revised choice again.
+
+Watch what happens when someone says no. That title leaves tonight’s choices. Earlier acceptance cannot approve a different decision. We revise, gather fresh agreement from every viewer, and save one accepted evening.
+
+The app also remembers explicit feedback. Two watched ratings are needed before a genre can influence future ranking. Here, a labelled synthetic demonstration makes the small adjustment visible. People can inspect, disable or reset learning.
+
+Next, follow the saved choice into our separate controlled streaming provider. This is original test media, not a commercial programme. Actual playback, pause, seek and return work, while choosing stays separate from marking something watched.
+
+We also tested the less glamorous moments: a lost connection, an unavailable provider, and a complete emulator restart. Saved evenings remain available. Local household memory keeps the experience useful beyond this one decision.
+
+Why Fire TV? Because the shared screen is where this decision belongs. We designed our Fire OS target around remote navigation, readable choices and participation across screens: family entertainment with a voice for everyone.
+
+Thirty-one automated tests, three participant browser sessions, and native emulator checks support the demonstration. Thank you to Amazon Developer for the opportunity to build. Tonight Together. One screen. Different tastes. A night worth sharing.

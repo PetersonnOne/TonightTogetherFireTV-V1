@@ -1,0 +1,32 @@
+{
+  "created": "2026-10-22",
+  "dimensions": [
+    2560,
+    1500
+  ],
+  "imageCount": 2,
+  "editableSvgCount": 2,
+  "review": "PNG visuals reviewed; PNG integrity/dimensions and SVG XML passed",
+  "files": [
+    {
+      "file": "Tonight-Together-Household-Decision-Flow.png",
+      "bytes": 423560,
+      "sha256": "58010eb38060dd928c740d60cd4049b61055c0dcb08555e813b858fe2bda8818"
+    },
+    {
+      "file": "Tonight-Together-Household-Decision-Flow.svg",
+      "bytes": 11084,
+      "sha256": "2ef1d1c0996255ca79618738ed57691eab1c8ff890db1c1ecfa2c7782fe3557b"
+    },
+    {
+      "file": "Tonight-Together-Technical-Architecture.png",
+      "bytes": 633618,
+      "sha256": "69c336540179b7a3644c3ded9fd8dabbec437d196a04ccb295ec75fe029855a9"
+    },
+    {
+      "file": "Tonight-Together-Technical-Architecture.svg",
+      "bytes": 12830,
+      "sha256": "cc7457229a8c1b86dbb092a040cb0c5685d12af3b68798d40437224e78eadd6d"
+    }
+  ]
+}

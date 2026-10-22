@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#112436"/><stop offset=".55" stop-color="#486669"/><stop offset="1" stop-color="#c7a17a"/></linearGradient><radialGradient id="light"><stop stop-color="#f6dca9" stop-opacity=".6"/><stop offset="1" stop-color="#f6dca9" stop-opacity="0"/></radialGradient></defs>
+<path fill="url(#sky)" d="M0 0h1280v720H0z"/><circle cx="913" cy="260" r="250" fill="url(#light)"/><circle cx="913" cy="260" r="62" fill="#eed5ac"/>
+<g fill="#e4e5c9"><circle cx="100" cy="110" r="2"/><circle cx="320" cy="70" r="2.5"/><circle cx="595" cy="135" r="1.5"/><circle cx="1140" cy="95" r="2"/><circle cx="1060" cy="180" r="1.5"/><circle cx="730" cy="65" r="2"/></g>
+<path fill="#314f57" d="M0 470Q190 220 390 430T780 420T1280 400V720H0z"/><path fill="#203c48" d="M0 530Q250 350 480 510T890 465T1280 520V720H0z"/><path fill="#142f3a" d="M0 590Q320 410 600 570T1050 555T1280 580V720H0z"/>
+<g fill="#14242e"><path d="M130 570V390l95-65 95 65v180zM710 590V450l70-46 70 46v144z"/><path d="M80 392l145-100 145 100zM678 454l103-80 101 80z"/></g>
+<g fill="#f3c98b"><path d="M170 414h34v46h-34zm74 0h34v46h-34zm-74 76h34v46h-34zm74 0h34v46h-34zm494-23h27v34h-27zm51 0h27v34h-27z"/></g>
+<path d="M410 720q50-100 210-123t170-27" fill="none" stroke="#d7b68a" stroke-width="8" opacity=".45"/>
+<g fill="none" stroke-width="2" opacity=".4"><circle cx="1050" cy="555" r="52" stroke="#cbe8d7"/><circle cx="1115" cy="555" r="52" stroke="#f1c98b"/><circle cx="1082" cy="505" r="52" stroke="#ecb6a4"/></g>
+<text x="68" y="640" fill="#eaf0e2" font-family="Arial,sans-serif" font-size="34" letter-spacing="3">A LITTLE COMMON GROUND</text>
+<text x="70" y="676" fill="#bdcfcb" font-family="Arial,sans-serif" font-size="16" letter-spacing="3">ORIGINAL MOTION STUDY · TONIGHT TOGETHER</text>
+</svg>

@@ -1,0 +1,339 @@
+{
+  "voiceGenerated": true,
+  "duration": 149.6,
+  "shots": [
+    {
+      "kind": "card",
+      "path": "build\\official-demo\\cards\\hook.png",
+      "weight": 0.45,
+      "scene": 1,
+      "outputStart": 0,
+      "duration": 6.183
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-v2.mp4",
+      "start": 0,
+      "length": 6,
+      "weight": 0.55,
+      "label": "NATIVE ANDROID APP / ANDROID TV EMULATOR",
+      "scene": 1,
+      "outputStart": 6.183,
+      "duration": 7.557
+    },
+    {
+      "kind": "card",
+      "path": "build\\official-demo\\cards\\title.png",
+      "weight": 0.3,
+      "scene": 2,
+      "outputStart": 13.74,
+      "duration": 4.337999999999999
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-v2.mp4",
+      "start": 0,
+      "length": 6,
+      "weight": 0.36,
+      "label": "NATIVE ANDROID APP / ANDROID TV EMULATOR",
+      "scene": 2,
+      "outputStart": 18.078,
+      "duration": 5.2056
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-v2.mp4",
+      "start": 19.4,
+      "length": 3.8,
+      "weight": 0.34,
+      "label": "NATIVE ANDROID APP / ANDROID TV EMULATOR",
+      "scene": 2,
+      "outputStart": 23.2836,
+      "duration": 4.9164
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 17.2,
+      "length": 3.5,
+      "weight": 0.22,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 3,
+      "outputStart": 28.2,
+      "duration": 3.0888000000000004
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 23.5,
+      "length": 3,
+      "weight": 0.2,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 3,
+      "outputStart": 31.2888,
+      "duration": 2.8080000000000007
+    },
+    {
+      "kind": "phones",
+      "weight": 0.58,
+      "scene": 3,
+      "outputStart": 34.0968,
+      "duration": 8.1432
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-v2.mp4",
+      "start": 30.5,
+      "length": 5.5,
+      "weight": 0.3,
+      "label": "NATIVE ANDROID APP / ANDROID TV EMULATOR",
+      "scene": 4,
+      "outputStart": 42.24,
+      "duration": 4.3679999999999986
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 130.8,
+      "length": 3.2,
+      "weight": 0.22,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 4,
+      "outputStart": 46.608000000000004,
+      "duration": 3.203199999999999
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 134.5,
+      "length": 3.3,
+      "weight": 0.24,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 4,
+      "outputStart": 49.8112,
+      "duration": 3.494399999999999
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 138.7,
+      "length": 3.8,
+      "weight": 0.24,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 4,
+      "outputStart": 53.3056,
+      "duration": 3.494399999999999
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 64,
+      "length": 8.2,
+      "weight": 0.35,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 5,
+      "outputStart": 56.8,
+      "duration": 4.829999999999998
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 76.4,
+      "length": 10.8,
+      "weight": 0.45,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 5,
+      "outputStart": 61.629999999999995,
+      "duration": 6.209999999999999
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 88.7,
+      "length": 3.5,
+      "weight": 0.2,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 5,
+      "outputStart": 67.83999999999999,
+      "duration": 2.76
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 112.5,
+      "length": 3.5,
+      "weight": 0.28,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 6,
+      "outputStart": 70.6,
+      "duration": 4.289600000000003
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 116.8,
+      "length": 5,
+      "weight": 0.47,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 6,
+      "outputStart": 74.8896,
+      "duration": 7.200400000000003
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 123.3,
+      "length": 3,
+      "weight": 0.25,
+      "label": "BROWSER DEVELOPMENT PREVIEW / LOCAL SERVICES",
+      "scene": 6,
+      "outputStart": 82.09,
+      "duration": 3.830000000000002
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-provider.mp4",
+      "start": 7.5,
+      "length": 3.4,
+      "weight": 0.12,
+      "label": "NATIVE APP / SAVED CHOICE",
+      "scene": 7,
+      "outputStart": 85.92,
+      "duration": 1.821599999999999
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-provider.mp4",
+      "start": 34.8,
+      "length": 6.7,
+      "weight": 0.42,
+      "label": "SEPARATE CONTROLLED PROVIDER / ORIGINAL TEST MEDIA",
+      "scene": 7,
+      "outputStart": 87.7416,
+      "duration": 6.375599999999997
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-provider.mp4",
+      "start": 44.9,
+      "length": 2,
+      "weight": 0.14,
+      "label": "NATIVE PROVIDER / PAUSE",
+      "scene": 7,
+      "outputStart": 94.1172,
+      "duration": 2.125199999999999
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-provider.mp4",
+      "start": 50.6,
+      "length": 1.8,
+      "weight": 0.14,
+      "label": "NATIVE PROVIDER / SEEK",
+      "scene": 7,
+      "outputStart": 96.24239999999999,
+      "duration": 2.125199999999999
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-provider.mp4",
+      "start": 61.5,
+      "length": 4.3,
+      "weight": 0.18,
+      "label": "REAL BACK / SAVED STATE PRESERVED",
+      "scene": 7,
+      "outputStart": 98.36759999999998,
+      "duration": 2.7323999999999984
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 147.2,
+      "length": 3.5,
+      "weight": 0.27,
+      "label": "CONTROLLED CONNECTION INTERRUPTION",
+      "scene": 8,
+      "outputStart": 101.09999999999998,
+      "duration": 4.0284
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@cdca1f7d96aade59dd7d243792203050.webm",
+      "start": 152,
+      "length": 2.8,
+      "weight": 0.2,
+      "label": "LOCAL ROOM / RECONNECTED",
+      "scene": 8,
+      "outputStart": 105.12839999999998,
+      "duration": 2.9840000000000004
+    },
+    {
+      "kind": "video",
+      "path": "D:\\Agent Studio\\Codex App\\Hackathons\\Amazon Hackathon 2026\\Tonight Together - Milestone 2\\build\\official-demo\\raw\\page@f2be73d4847101632a0724372e4227da.webm",
+      "start": 7,
+      "length": 4,
+      "weight": 0.23,
+      "label": "SIMULATED PROVIDER UNAVAILABLE",
+      "scene": 8,
+      "outputStart": 108.11239999999998,
+      "duration": 3.4316000000000004
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-v2.mp4",
+      "start": 98.2,
+      "length": 3.5,
+      "weight": 0.3,
+      "label": "NATIVE ANDROID APP / ANDROID TV EMULATOR",
+      "scene": 8,
+      "outputStart": 111.54399999999998,
+      "duration": 4.476
+    },
+    {
+      "kind": "card",
+      "path": "build\\official-demo\\cards\\platform.png",
+      "weight": 0.52,
+      "scene": 9,
+      "outputStart": 116.01999999999998,
+      "duration": 7.997600000000006
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-v2.mp4",
+      "start": 0,
+      "length": 6,
+      "weight": 0.24,
+      "label": "NATIVE ANDROID APP / ANDROID TV EMULATOR",
+      "scene": 9,
+      "outputStart": 124.01759999999999,
+      "duration": 3.691200000000002
+    },
+    {
+      "kind": "video",
+      "path": "build\\official-demo\\native-v2.mp4",
+      "start": 19.4,
+      "length": 3.5,
+      "weight": 0.24,
+      "label": "NATIVE ANDROID APP / ANDROID TV EMULATOR",
+      "scene": 9,
+      "outputStart": 127.7088,
+      "duration": 3.691200000000002
+    },
+    {
+      "kind": "card",
+      "path": "build\\official-demo\\cards\\proof.png",
+      "weight": 0.4,
+      "scene": 10,
+      "outputStart": 131.4,
+      "duration": 7.279999999999996
+    },
+    {
+      "kind": "card",
+      "path": "build\\official-demo\\cards\\end.png",
+      "weight": 0.6,
+      "scene": 10,
+      "outputStart": 138.68,
+      "duration": 10.919999999999993
+    }
+  ]
+}

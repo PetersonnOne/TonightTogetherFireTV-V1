@@ -1,0 +1,17 @@
+{
+  "name": "tonight-together-milestone-2",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-first household viewing consensus for Fire TV",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "dev": "node scripts/preview.mjs",
+    "build:android": "powershell.exe -NoProfile -File scripts/Build-App.ps1",
+    "rooms": "node server/rooms-server.mjs",
+    "provider": "node server/provider-server.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

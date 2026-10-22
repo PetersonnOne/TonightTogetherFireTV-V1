@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1500" viewBox="0 0 2560 1500">
+<rect width="2560" height="1500" fill="#0c191f"/>
+<text x="90" y="60.0" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600" fill="#bce9d5" dominant-baseline="text-before-edge">TONIGHT TOGETHER</text>
+<text x="90" y="124.0" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">One shared decision. Clear technical boundaries.</text>
+<text x="90" y="211.0" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Local-first TV experience, connected participation and a separate controlled media path.</text>
+<polyline points="435,350 435,292 2140,292 2140,350" fill="none" stroke="#f1ca86" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="2140,350 2132.605585920109,334.6923992600045 2147.394414079891,334.6923992600045" fill="#f1ca86"/>
+<polygon points="435,350 427.6055859201091,334.6923992600045 442.3944140798909,334.6923992600045" fill="#f1ca86"/>
+<rect x="1130" y="269" width="750" height="48" rx="1" fill="#0c191f" stroke="#0c191f" stroke-width="1"/>
+<text x="1150" y="276.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#f1ca86" dominant-baseline="text-before-edge">Android handoff  /  real Back return</text>
+<rect x="90" y="350" width="690" height="305" rx="24" fill="#142a30" stroke="#5d8d7d" stroke-width="2"/>
+<text x="124" y="380.0" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">TV host</text>
+<text x="124" y="443.0" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400" fill="#bce9d5" dominant-baseline="text-before-edge">Java Android shell + bundled WebView UI</text>
+<text x="124" y="495.0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">HTML / CSS / JavaScript · D-pad navigation</text>
+<text x="124" y="537.0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Local ranking and shared-remote path</text>
+<text x="124" y="579.0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Owns saved evenings and watched state</text>
+<polyline points="435,662 435,744" fill="none" stroke="#bce9d5" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="435,744 427.6055859201091,728.6923992600045 442.3944140798909,728.6923992600045" fill="#bce9d5"/>
+<polygon points="435,662 442.3944140798909,677.3076007399955 427.6055859201091,677.3076007399955" fill="#bce9d5"/>
+<rect x="475" y="678" width="287" height="43" rx="1" fill="#0c191f" stroke="#0c191f" stroke-width="1"/>
+<text x="491" y="684.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#bce9d5" dominant-baseline="text-before-edge">Read / atomic write</text>
+<rect x="90" y="752" width="690" height="215" rx="24" fill="#142a30" stroke="#5d8d7d" stroke-width="2"/>
+<text x="124" y="783.0" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">App-private household file</text>
+<text x="124" y="841.0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#bce9d5" dominant-baseline="text-before-edge">Android AtomicFile · durable local memory</text>
+<text x="124" y="894.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Profiles, catalogue, saved choices and explicit ratings</text>
+<rect x="90" y="1060" width="690" height="270" rx="24" fill="#142a30" stroke="#657393" stroke-width="2"/>
+<text x="124" y="1093.0" font-family="Segoe UI,Arial,sans-serif" font-size="38" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">Participant browsers</text>
+<text x="124" y="1154.0" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400" fill="#bdc7ed" dominant-baseline="text-before-edge">QR / link / code → host approval</text>
+<text x="124" y="1210.0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Separate responses · own preference details</text>
+<text x="124" y="1252.0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Shared shortlist and agreement progress</text>
+<rect x="990" y="350" width="650" height="980" rx="24" fill="#142a30" stroke="#638a82" stroke-width="2"/>
+<text x="1026" y="385.0" font-family="Segoe UI,Arial,sans-serif" font-size="37" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">Connected room service</text>
+<text x="1026" y="451.0" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#bce9d5" dominant-baseline="text-before-edge">Node.js · bounded HTTP polling every 2s</text>
+<text x="1026" y="511.0" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Short-lived rooms and participant capabilities</text>
+<text x="1026" y="550.0" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Host approval, revisions and request IDs</text>
+<rect x="1026" y="638" width="578" height="340" rx="18" fill="#1b343b" stroke="#658777" stroke-width="2"/>
+<text x="1054" y="667.0" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">Shared pure JavaScript core</text>
+<text x="1054" y="725.0" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#bce9d5" dominant-baseline="text-before-edge">Eligibility → fit + fairness → shortlist</text>
+<text x="1054" y="780.0" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Focused negotiation proposals</text>
+<text x="1054" y="819.0" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Feedback: ≥2 genre ratings; bound −3 to +3</text>
+<text x="1054" y="858.0" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Same modules power the TV’s local path</text>
+<rect x="1026" y="1014" width="578" height="160" rx="18" fill="#292f32" stroke="#8c7b53" stroke-width="2"/>
+<text x="1054" y="1042.0" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="600" fill="#f1ca86" dominant-baseline="text-before-edge">Revision-safe agreement</text>
+<text x="1054" y="1092.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#f1f5eb" dominant-baseline="text-before-edge">Material changes clear votes; save needs</text>
+<text x="1054" y="1125.75" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#f1f5eb" dominant-baseline="text-before-edge">unanimity.</text>
+<text x="1026" y="1199.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Room state lives in service memory.</text>
+<text x="1026" y="1236.5" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Restart expires active rooms; TV records remain.</text>
+<polyline points="792,524 978,524" fill="none" stroke="#bce9d5" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="978,524 962.6923992600045,531.3944140798909 962.6923992600045,516.6055859201091" fill="#bce9d5"/>
+<polygon points="792,524 807.3076007399955,516.6055859201091 807.3076007399955,531.3944140798909" fill="#bce9d5"/>
+<text x="806" y="432.0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#bce9d5" dominant-baseline="text-before-edge">Commands</text>
+<text x="806" y="467.0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#bce9d5" dominant-baseline="text-before-edge">+ shared state</text>
+<polyline points="792,1196 948,1196 948,966 978,966" fill="none" stroke="#bdc7ed" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="978,966 962.6923992600045,973.3944140798909 962.6923992600045,958.6055859201091" fill="#bdc7ed"/>
+<polygon points="792,1196 807.3076007399955,1188.605585920109 807.3076007399955,1203.394414079891" fill="#bdc7ed"/>
+<text x="804" y="1005.0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#bdc7ed" dominant-baseline="text-before-edge">Join</text>
+<text x="804" y="1040.0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#bdc7ed" dominant-baseline="text-before-edge">respond</text>
+<text x="804" y="1075.0" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" fill="#bdc7ed" dominant-baseline="text-before-edge">and poll</text>
+<rect x="1810" y="350" width="660" height="285" rx="24" fill="#142a30" stroke="#8e7f5c" stroke-width="2"/>
+<text x="1846" y="383.0" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">Separate Android provider</text>
+<text x="1846" y="446.0" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#f1ca86" dominant-baseline="text-before-edge">Explicit component handoff to its WebView</text>
+<text x="1846" y="502.0" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Ticket: test title + scenario + expiry</text>
+<text x="1846" y="542.5" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">No profiles, aliases, notes or votes sent</text>
+<polyline points="2140,647 2140,756" fill="none" stroke="#f1ca86" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<polygon points="2140,756 2132.605585920109,740.6923992600045 2147.394414079891,740.6923992600045" fill="#f1ca86"/>
+<polygon points="2140,647 2147.394414079891,662.3076007399955 2132.605585920109,662.3076007399955" fill="#f1ca86"/>
+<rect x="1855" y="675" width="600" height="44" rx="1" fill="#0c191f" stroke="#0c191f" stroke-width="1"/>
+<text x="1872" y="683.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#f1ca86" dominant-baseline="text-before-edge">Loopback HTTP · resolve + media ranges</text>
+<rect x="1810" y="768" width="660" height="330" rx="24" fill="#142a30" stroke="#8e7f5c" stroke-width="2"/>
+<text x="1846" y="804.0" font-family="Segoe UI,Arial,sans-serif" font-size="36" font-weight="600" fill="#f1f5eb" dominant-baseline="text-before-edge">Controlled media service</text>
+<text x="1846" y="866.0" font-family="Segoe UI,Arial,sans-serif" font-size="28" font-weight="400" fill="#f1ca86" dominant-baseline="text-before-edge">Node.js · HMAC + expiry validation</text>
+<text x="1846" y="920.0" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Original MP4 bytes with HTTP range support</text>
+<text x="1846" y="960.5" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Play / pause / seek · labelled failure cases</text>
+<text x="1846" y="1001.0" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Demo access; no real sign-in or purchase</text>
+<rect x="1810" y="1177" width="660" height="153" rx="24" fill="#1b343b" stroke="#638a82" stroke-width="2"/>
+<text x="1846" y="1207.0" font-family="Segoe UI,Arial,sans-serif" font-size="32" font-weight="600" fill="#bce9d5" dominant-baseline="text-before-edge">Playback does not mark watched.</text>
+<text x="1846" y="1261.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">People record watched status and ratings explicitly.</text>
+<text x="90" y="1410.0" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="400" fill="#b7cbd0" dominant-baseline="text-before-edge">Fire OS target · Android TV Emulator evidence · local services · no AWS or runtime LLM required · controlled media, not commercial streaming</text>
+</svg>

@@ -1,0 +1,154 @@
+1
+00:00:00,120 --> 00:00:04,720
+Everyone finally sits down. One person
+wants comedy. Another wants
+
+2
+00:00:04,780 --> 00:00:09,660
+adventure. Someone has a firm no. You made
+time for each other.
+
+3
+00:00:10,140 --> 00:00:14,960
+Now the evening is disappearing into the
+choice. Meet Tonight Together,
+
+4
+00:00:15,400 --> 00:00:20,200
+a household viewing companion designed for
+Amazon Fire TV. Give everyone
+
+5
+00:00:20,260 --> 00:00:25,040
+a say, understand the compromise, and find
+common ground. This is our
+
+6
+00:00:25,100 --> 00:00:30,000
+working Android TV Emulator demonstration.
+Select tonight’s viewers, time
+
+7
+00:00:30,100 --> 00:00:34,780
+and preferences. Open an invitation,
+approve the participants, and let each
+
+8
+00:00:34,840 --> 00:00:38,720
+person respond from their own browser. The
+television keeps the shared
+
+9
+00:00:38,760 --> 00:00:43,040
+decision visible, while everyone has a way
+to contribute. Recommendations
+
+10
+00:00:43,080 --> 00:00:47,400
+show individual fit and the tradeoffs.
+Firm exclusions come first.
+
+11
+00:00:47,800 --> 00:00:52,240
+When time blocks progress, the app can
+suggest a specific adjustment. People
+
+12
+00:00:52,260 --> 00:00:57,020
+confirm the change, and everyone must
+accept the revised choice again. Watch
+
+13
+00:00:57,060 --> 00:01:01,360
+what happens when someone says no. That
+title leaves tonight’s choices.
+
+14
+00:01:01,740 --> 00:01:06,380
+Earlier acceptance cannot approve a
+different decision. We revise, gather
+
+15
+00:01:06,440 --> 00:01:11,020
+fresh agreement from every viewer, and
+save one accepted evening. The app
+
+16
+00:01:11,120 --> 00:01:15,560
+also remembers explicit feedback. Two
+watched ratings are needed before a
+
+17
+00:01:15,620 --> 00:01:20,320
+genre can influence future ranking. Here,
+a labelled synthetic demonstration
+
+18
+00:01:20,360 --> 00:01:25,000
+makes the small adjustment visible. People
+can inspect, disable or reset
+
+19
+00:01:25,060 --> 00:01:29,120
+learning. Next, follow the saved choice
+into our separate controlled
+
+20
+00:01:29,220 --> 00:01:33,740
+streaming provider. This is original test
+media, not a commercial programme.
+
+21
+00:01:34,160 --> 00:01:39,160
+Actual playback, pause, seek and return
+work, while choosing stays separate
+
+22
+00:01:39,200 --> 00:01:43,780
+from marking something watched. We also
+tested the less glamorous moments: a
+
+23
+00:01:43,860 --> 00:01:48,440
+lost connection, an unavailable provider,
+and a complete emulator restart.
+
+24
+00:01:48,920 --> 00:01:53,400
+Saved evenings remain available. Local
+household memory keeps the experience
+
+25
+00:01:53,540 --> 00:01:58,320
+useful beyond this one decision. Why Fire
+TV? Because the shared
+
+26
+00:01:58,400 --> 00:02:03,220
+screen is where this decision belongs. We
+designed our Fire OS target around
+
+27
+00:02:03,280 --> 00:02:07,800
+remote navigation, readable choices and
+participation across screens:
+
+28
+00:02:08,280 --> 00:02:13,020
+family entertainment with a voice for
+everyone. Thirty-one automated tests,
+
+29
+00:02:13,300 --> 00:02:17,460
+three participant browser sessions, and
+native emulator checks support the
+
+30
+00:02:17,480 --> 00:02:21,920
+demonstration. Thank you to Amazon
+Developer for the opportunity to build.
+
+31
+00:02:22,360 --> 00:02:27,360
+Tonight Together. One screen. Different
+tastes. A night worth sharing.

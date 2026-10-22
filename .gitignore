@@ -1,0 +1,23 @@
+build/
+evidence/*.png
+*.keystore
+*.log
+
+# Private project history; keep local and exclude from normal Git staging.
+/Retrospective Catalog/
+
+# Local production credentials; never package or publish them.
+/.env
+/.env.*
+!/.env.example
+.playwright-cli/
+output/
+__pycache__/
+*.pyc
+/Voice Auditions/
+
+# Local reusable production archive.
+/Reusable Guide for Creating a Hackathon Demo Walkthrough/
+
+# Local deployment linkage and credentials.
+/.vercel/

@@ -1,0 +1,27 @@
+{
+  "created": "2026-10-22",
+  "generation": "Built-in image_gen",
+  "review": "Both generated images visually reviewed; image integrity and copy hashes passed",
+  "files": [
+    {
+      "file": "Tonight-Together-Family-Poster.png",
+      "purpose": "Portrait promotional poster",
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "bytes": 1888632,
+      "sha256": "1a8de582ae4b56b596a842ddb6ab031c4efd4fcb565b8cd7d2a6afbd2a15f1ac"
+    },
+    {
+      "file": "Tonight-Together-Project-Thumbnail.png",
+      "purpose": "Landscape project-profile thumbnail",
+      "dimensions": [
+        1672,
+        941
+      ],
+      "bytes": 1868101,
+      "sha256": "94155bc061c5bf93ed5c6b13a7fbb55e712e71c91973ef2ebedce9f7906213fa"
+    }
+  ]
+}
