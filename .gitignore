@@ -21,3 +21,9 @@ __pycache__/
 
 # Local deployment linkage and credentials.
 /.vercel/
+
+# Owner-requested local submission materials.
+/Submission Screenshots/
+/Submission Video/
+/Submit Project/
+/Tonight-Together-Submission-Screenshots.zip

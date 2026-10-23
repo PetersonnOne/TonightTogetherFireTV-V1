@@ -1,4 +1,4 @@
-> **Current connected-edition materials:** Use [Milestone 2 submission draft](MILESTONE_2_SUBMISSION_DRAFT.md) and [completed official narrated video](../Submission%20Video/README.md). The baseline description below is retained as historical fallback preparation.
+> **Current connected-edition materials:** Use [Milestone 2 submission draft](MILESTONE_2_SUBMISSION_DRAFT.md) and completed official narrated video (kept locally). The baseline description below is retained as historical fallback preparation.
 
 # Submission preparation
 

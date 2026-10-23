@@ -1,4 +1,4 @@
-> **22 October video update:** [Final Sarah-narrated walkthrough](../Submission%20Video/README.md) is now exported and checked. Earlier video-blocker observations below are historical.
+> **22 October video update:** Final Sarah-narrated walkthrough (kept locally) is now exported and checked. Earlier video-blocker observations below are historical.
 
 # Final improvements verification — 21 October 2026
 
@@ -35,4 +35,4 @@ These evaluation artifacts were built and signature checked. The new native runt
 
 The official narrated video has not been generated. ElevenLabs authentication succeeded through a read-only check; the subsequent voice-design request was rejected with an account payment issue, so no narration was generated. AWS remains excluded. The preserved Milestone 1 fallback and main PRD were not modified.
 
-See [the five upload assets and captions](../Submission%20Screenshots/README.md).
+See the five upload assets and captions (kept locally).

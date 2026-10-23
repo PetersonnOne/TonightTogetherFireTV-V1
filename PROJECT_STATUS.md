@@ -1,6 +1,6 @@
-> **Video completed — 22 October:** Final local narrated demo is 2:29.6, with ElevenLabs Sarah, English subtitles and verified audio/video. [Video files](Submission%20Video/README.md) · [production checks](docs/official-demo/PRODUCTION_STATUS.md). Public hosting and submission remain pending.
+> **Video completed — 22 October:** Final local narrated demo is 2:29.6, with ElevenLabs Sarah, English subtitles and verified audio/video. Video files (kept locally) · [production checks](docs/official-demo/PRODUCTION_STATUS.md). Public hosting and submission remain pending.
 
-> **21 October presentation update:** Final visual improvements and labelled fictional programme names are implemented. [Current verification](docs/FINAL_IMPROVEMENTS_VERIFICATION.md) records 31 tests, browser/connected checks and native playback. [Five separate submission PNGs](Submission%20Screenshots/README.md) are saved for manual upload. The official narrated walkthrough is now exported; evaluation-package reinstall smoke remains pending. Earlier screenshots/video below are historical.
+> **21 October presentation update:** Final visual improvements and labelled fictional programme names are implemented. [Current verification](docs/FINAL_IMPROVEMENTS_VERIFICATION.md) records 31 tests, browser/connected checks and native playback. Five separate submission PNGs (kept locally) are saved for manual upload. The official narrated walkthrough is now exported; evaluation-package reinstall smoke remains pending. Earlier screenshots/video below are historical.
 
 # Tonight Together — Milestone 2 status
 

@@ -39,4 +39,4 @@ Illustrative entries, synthetic learning histories and controlled provider state
 
 ## Completed video asset — 22 October
 
-The [official narrated walkthrough](../Submission%20Video/Tonight-Together-Official-Demo.mp4) is 2:29.6 with ElevenLabs Sarah narration and English captions. [Export checks](official-demo/PRODUCTION_STATUS.md) distinguish verified local production from pending public hosting.
+The official narrated walkthrough (kept locally) is 2:29.6 with ElevenLabs Sarah narration and English captions. [Export checks](official-demo/PRODUCTION_STATUS.md) distinguish verified local production from pending public hosting.

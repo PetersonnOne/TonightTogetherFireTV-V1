@@ -1,6 +1,6 @@
 # Official narrated walkthrough — 22 October 2026
 
-**Completed local export:** [Tonight-Together-Official-Demo.mp4](../../Submission%20Video/Tonight-Together-Official-Demo.mp4), **2:29.6**, 1280×720 H.264 with female Sarah narration, AAC audio and burned-in English subtitles. Public upload/submission remains unperformed.
+**Completed local export:** Tonight-Together-Official-Demo.mp4 (kept locally), **2:29.6**, 1280×720 H.264 with female Sarah narration, AAC audio and burned-in English subtitles. Public upload/submission remains unperformed.
 
 The user listened to and approved Sarah's audition, then authorized the full production. Narration uses ElevenLabs Sarah through OpenRouter, model `elevenlabs/eleven-v4`. This premade voice replaces the earlier custom Voice Design proposal. [Reusable voice identity and API recipes](../APPROVED_NARRATION_VOICE.md) cover direct ElevenLabs and OpenRouter; direct generation has not been retested after its earlier billing issue.
 
@@ -26,7 +26,7 @@ The user approved the audition's sound. Full-take verification uses machine tran
 
 ## Files and reproducibility
 
-[Submission folder](../../Submission%20Video/README.md) lists the MP4, standalone female narration MP3, SRT captions, edit timeline and verification JSON. Raw recordings, original unprocessed narration, timestamp response, generation hashes and contact sheet remain under ignored `build/official-demo/`. The original 167-second silent workprint is preserved with its original SHA256.
+Submission folder (kept locally) lists the MP4, standalone female narration MP3, SRT captions, edit timeline and verification JSON. Raw recordings, original unprocessed narration, timestamp response, generation hashes and contact sheet remain under ignored `build/official-demo/`. The original 167-second silent workprint is preserved with its original SHA256.
 
 Production helpers: `scripts/Generate-OpenRouterDemoVoice.py`, `scripts/Align-OpenRouterDemoVoice.py`, `scripts/Assemble-OfficialDemo.py`, and `scripts/Verify-OfficialDemo.py`. Generation preserves the existing take instead of spending again. The older direct Voice Design helper is retained as an earlier proposed workflow; it is not the route used for this final export.
 

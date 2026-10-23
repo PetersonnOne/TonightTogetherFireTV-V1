@@ -101,11 +101,11 @@ Severity describes impact on our workflow: **High** blocked the attempted step u
 
 **Outcome:** The corrected narrated film is 149.625 seconds and passed full decoding. This is a recovered production workflow, not a claim that every emulator capture has this problem.
 
-**Evidence:** [Final production report](docs/official-demo/PRODUCTION_STATUS.md), [edit and duration-normalization logic](scripts/Assemble-OfficialDemo.py), and [export verification](Submission%20Video/verification.json).
+**Evidence:** [Final production report](docs/official-demo/PRODUCTION_STATUS.md), [edit and duration-normalization logic](scripts/Assemble-OfficialDemo.py), and export verification (kept locally).
 
 ## Related feature requests
 
-A maintained TV WebView starter, an emulator readiness/compatibility checklist and a companion-browser/local-media testing recipe would address the most repeatable parts of this experience. See [Developer Feedback and Feature Requests](Submit%20Project/05%20Developer%20Feedback%20and%20Feature%20Requests.md) for descriptions and priorities.
+A maintained TV WebView starter, an emulator readiness/compatibility checklist and a companion-browser/local-media testing recipe would address the most repeatable parts of this experience. Priorities: a maintained TV WebView starter and readiness/compatibility checklist are Important; a companion-browser/local-media testing recipe is Nice-to-have.
 
 ## Scope and evidence boundaries
 

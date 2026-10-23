@@ -1,6 +1,6 @@
-> **22 October video completion:** [Final narrated demo and captions](Submission%20Video/README.md) are exported and checked. Sarah is the approved voice. Public hosting/submission remain pending.
+> **22 October video completion:** Final narrated demo and captions (kept locally) are exported and checked. Sarah is the approved voice. Public hosting/submission remain pending.
 
-> **21 October presentation update:** Final visual improvements and labelled fictional programme names are implemented. [Current verification](docs/FINAL_IMPROVEMENTS_VERIFICATION.md) records 31 tests, browser/connected checks and native playback. [Five separate submission PNGs](Submission%20Screenshots/README.md) are saved for manual upload. The official narrated walkthrough is now exported; evaluation-package reinstall smoke remains pending. Earlier screenshots/video below are historical.
+> **21 October presentation update:** Final visual improvements and labelled fictional programme names are implemented. [Current verification](docs/FINAL_IMPROVEMENTS_VERIFICATION.md) records 31 tests, browser/connected checks and native playback. Five separate submission PNGs (kept locally) are saved for manual upload. The official narrated walkthrough is now exported; evaluation-package reinstall smoke remains pending. Earlier screenshots/video below are historical.
 
 # Start here — Tonight Together Milestone 2
 
